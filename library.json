@@ -1,0 +1,22 @@
+{
+  "name": "duison",
+  "description": "A simple JSON parser for ESP8266 Arduino.",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "authors": {
+    "name": "Justin Swanson",
+    "email": "geeksunny@gmail.com",
+    "url": "https://beepboop.me/"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "espressif8266",
+  "dependencies": [
+    {
+      "name": "especially-useful",
+      "version": "https://github.com/geeksunny/especially-useful.git#master"
+    }
+  ]
+}
